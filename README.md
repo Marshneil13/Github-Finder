@@ -52,5 +52,5 @@ https://api.github.com
 
 ## Deployed Link
 
-Checkout live version at: https://github-finder-mu-plum.vercel.app/
+Checkout live version at: https://github-finder-marshneil13.vercel.app/
 
