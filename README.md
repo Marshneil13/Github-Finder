@@ -3,7 +3,7 @@
 
 App to search Github users and display their info.
 
-![Untitled video - Made with Clipchamp](https://user-images.githubusercontent.com/79684738/213495519-9d8a7cb6-6566-403d-923c-daf167b5f81b.mp4)
+![Untitled video - Made with Clipchamp](https://user-images.githubusercontent.com/79684738/213453041-f8a0da07-7d58-44fd-af3d-862888ccadf8.gif)
 
 
 
